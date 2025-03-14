@@ -6,6 +6,6 @@ Min Theme |
 Symbols | 
 Material Icon Theme | 
 
-#Extensões
+# Extensões |
 APC | 
 Live Server | 
