@@ -1,11 +1,11 @@
 # VSCodeConfig
 
 # Temas
-Dracula\n
-Min Theme\n
-Symbols\n
-Material Icon Theme\n
+Dracula | 
+Min Theme | 
+Symbols | 
+Material Icon Theme | 
 
 #Extensões
-APC\n
-Live Server\n
+APC | 
+Live Server | 
