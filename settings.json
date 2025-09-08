@@ -1,6 +1,6 @@
 {
-    "workbench.colorTheme": "Min Dark",
-    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.6,
